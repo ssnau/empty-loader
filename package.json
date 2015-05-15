@@ -1,6 +1,6 @@
 {
     "name": "empty-loader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "ssnau",
     "description": "empty loader module for webpack",
     "licenses": [
