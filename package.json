@@ -1,0 +1,17 @@
+{
+    "name": "empty-loader",
+    "version": "1.0.0",
+    "author": "ssnau",
+    "description": "empty loader module for webpack",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "repository": { 
+        "type": "git",
+        "url" : "https://github.com/ssnau/empty-loader.git"
+    }
+}
+
